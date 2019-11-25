@@ -1,0 +1,9 @@
+E:\cpptutorial\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe.config
+E:\cpptutorial\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe
+E:\cpptutorial\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.pdb
+E:\cpptutorial\DeleteFiles\DeleteFiles\obj\Debug\DeleteFiles.Page1.resources
+E:\cpptutorial\DeleteFiles\DeleteFiles\obj\Debug\DeleteFiles.Properties.Resources.resources
+E:\cpptutorial\DeleteFiles\DeleteFiles\obj\Debug\DeleteFiles.csproj.GenerateResource.Cache
+E:\cpptutorial\DeleteFiles\DeleteFiles\obj\Debug\DeleteFiles.exe
+E:\cpptutorial\DeleteFiles\DeleteFiles\obj\Debug\DeleteFiles.pdb
+E:\cpptutorial\DeleteFiles\DeleteFiles\obj\Debug\DeleteFiles.csprojResolveAssemblyReference.cache
